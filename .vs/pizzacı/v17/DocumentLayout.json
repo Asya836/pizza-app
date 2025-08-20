@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASYA\\Desktop\\csarp\\windowsForm\\pizzac\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A3F20B-04DB-4816-953A-73FDA1154C83}|pizzac\u0131\\pizzac\u0131.csproj|c:\\users\\asya\\desktop\\csarp\\windowsform\\pizzac\u0131\\pizzac\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A3F20B-04DB-4816-953A-73FDA1154C83}|pizzac\u0131\\pizzac\u0131.csproj|solutionrelative:pizzac\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A3F20B-04DB-4816-953A-73FDA1154C83}|pizzac\u0131\\pizzac\u0131.csproj|c:\\users\\asya\\desktop\\csarp\\windowsform\\pizzac\u0131\\pizzac\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0A3F20B-04DB-4816-953A-73FDA1154C83}|pizzac\u0131\\pizzac\u0131.csproj|solutionrelative:pizzac\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ASYA\\Desktop\\csarp\\windowsForm\\pizzac\u0131\\pizzac\u0131\\Form1.cs",
+              "RelativeDocumentMoniker": "pizzac\u0131\\Form1.cs",
+              "ToolTip": "C:\\Users\\ASYA\\Desktop\\csarp\\windowsForm\\pizzac\u0131\\pizzac\u0131\\Form1.cs",
+              "RelativeToolTip": "pizzac\u0131\\Form1.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAADgv9cAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T17:33:30.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASYA\\Desktop\\csarp\\windowsForm\\pizzac\u0131\\pizzac\u0131\\Form1.cs",
+              "RelativeDocumentMoniker": "pizzac\u0131\\Form1.cs",
+              "ToolTip": "C:\\Users\\ASYA\\Desktop\\csarp\\windowsForm\\pizzac\u0131\\pizzac\u0131\\Form1.cs [Design]",
+              "RelativeToolTip": "pizzac\u0131\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T16:37:12.036Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

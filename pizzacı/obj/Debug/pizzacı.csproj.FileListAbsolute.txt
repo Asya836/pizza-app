@@ -1,0 +1,11 @@
+C:\Users\ASYA\Desktop\csarp\windowsForm\pizzacı\pizzacı\bin\Debug\pizzacı.exe.config
+C:\Users\ASYA\Desktop\csarp\windowsForm\pizzacı\pizzacı\bin\Debug\pizzacı.exe
+C:\Users\ASYA\Desktop\csarp\windowsForm\pizzacı\pizzacı\bin\Debug\pizzacı.pdb
+C:\Users\ASYA\Desktop\csarp\windowsForm\pizzacı\pizzacı\obj\Debug\pizzacı.csproj.AssemblyReference.cache
+C:\Users\ASYA\Desktop\csarp\windowsForm\pizzacı\pizzacı\obj\Debug\pizzacı.Form1.resources
+C:\Users\ASYA\Desktop\csarp\windowsForm\pizzacı\pizzacı\obj\Debug\pizzacı.Properties.Resources.resources
+C:\Users\ASYA\Desktop\csarp\windowsForm\pizzacı\pizzacı\obj\Debug\pizzacı.csproj.GenerateResource.cache
+C:\Users\ASYA\Desktop\csarp\windowsForm\pizzacı\pizzacı\obj\Debug\pizzacı.csproj.CoreCompileInputs.cache
+C:\Users\ASYA\Desktop\csarp\windowsForm\pizzacı\pizzacı\obj\Debug\pizzacı.exe
+C:\Users\ASYA\Desktop\csarp\windowsForm\pizzacı\pizzacı\obj\Debug\pizzacı.pdb
+C:\Users\ASYA\Desktop\csarp\windowsForm\pizzacı\pizzacı\obj\Debug\pizzacı.exe.config
